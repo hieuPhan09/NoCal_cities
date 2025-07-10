@@ -1,0 +1,753 @@
+ID,STATE_NAME,COUNTY,CITY,LATITUDE,LONGITUDE
+1685,California,"San Joaquin",Acampo,38.200413,-121.218576
+1688,California,Modoc,Adin,41.21751,-120.943193
+1691,California,Madera,Ahwahnee,37.407631,-119.723251
+1692,California,Alameda,Alameda,37.764783,-122.260516
+1693,California,"Contra Costa",Alamo,37.853695,-122.022868
+1694,California,Alameda,Albany,37.890045,-122.295394
+1695,California,Mendocino,Albion,39.215934,-123.721366
+1696,California,Humboldt,Alderpoint,40.176389,-123.610556
+1699,California,Sierra,Alleghany,39.512698,-120.727176
+1702,California,Placer,Alta,39.228032,-120.773165
+1704,California,Calaveras,Altaville,38.076944,-120.552222
+1705,California,Modoc,Alturas,41.476742,-120.545584
+1706,California,"Santa Clara",Alviso,37.427659,-121.968597
+1707,California,Amador,"Amador City",38.419444,-120.823056
+1709,California,Napa,"American Canyon",38.175,-122.259722
+1711,California,Shasta,Anderson,40.457432,-122.328218
+1712,California,Calaveras,"Angels Camp",38.064011,-120.55437
+1714,California,Napa,Angwin,38.576906,-122.447732
+1715,California,Sonoma,Annapolis,38.714485,-123.314214
+1716,California,Sacramento,Antelope,38.708333,-121.328889
+1717,California,"Contra Costa",Antioch,37.993917,-121.808906
+1720,California,Placer,Applegate,38.995487,-120.990511
+1721,California,"Santa Cruz",Aptos,36.977222,-121.898333
+1722,California,Colusa,Arbuckle,39.013787,-122.027405
+1724,California,Humboldt,Arcata,40.866667,-124.081667
+1725,California,Kings,Armona,36.309459,-119.705279
+1726,California,Calaveras,Arnold,38.24175,-120.342231
+1727,California,Monterey,Aromas,36.878522,-121.639781
+1730,California,Glenn,Artois,39.619722,-122.192778
+1733,California,"San Mateo",Atherton,37.456255,-122.200198
+1734,California,Merced,Atwater,37.353154,-120.600837
+1736,California,Fresno,Auberry,37.072635,-119.457202
+1737,California,Placer,Auburn,38.9828,-121.0938
+1739,California,Kings,Avenal,35.987667,-120.122716
+1740,California,Calaveras,Avery,38.204444,-120.368889
+1747,California,Merced,Ballico,37.452455,-120.700152
+1748,California,Butte,Bangor,39.424862,-121.350499
+1752,California,Madera,"Bass Lake",37.324359,-119.556839
+1753,California,Humboldt,Bayside,40.822381,-124.027305
+1754,California,Yuba,"Beale Afb",39.145833,-121.590278
+1756,California,Plumas,Beckwourth,39.820278,-120.377778
+1757,California,Plumas,Belden,39.921746,-121.325924
+1760,California,Shasta,"Bella Vista",40.740945,-122.07245
+1762,California,"San Mateo",Belmont,37.517433,-122.292671
+1763,California,Marin,"Belvedere Tiburon",37.889885,-122.472627
+1764,California,"Santa Cruz","Ben Lomond",37.086183,-122.083869
+1765,California,Solano,Benicia,38.068459,-122.161392
+1766,California,Mono,Benton,37.798099,-118.498526
+1767,California,Alameda,Berkeley,37.8691,-122.2696
+1768,California,Butte,"Berry Creek",39.638394,-121.385467
+1769,California,"Contra Costa","Bethel Island",38.015,-121.639444
+1771,California,Lassen,Bieber,41.121389,-121.143056
+1772,California,Trinity,"Big Bar",40.74796,-123.229006
+1775,California,Shasta,"Big Bend",41.020833,-121.91
+1776,California,Fresno,"Big Creek",37.205,-119.245
+1777,California,Tuolumne,"Big Oak Flat",37.823611,-120.257222
+1778,California,Inyo,"Big Pine",37.167857,-118.291597
+1779,California,Monterey,"Big Sur",36.245798,-121.700897
+1780,California,Butte,Biggs,39.414918,-121.695873
+1781,California,Fresno,Biola,36.802222,-120.015278
+1782,California,Solano,"Birds Landing",38.150402,-121.844318
+1783,California,Inyo,Bishop,37.386301,-118.44156
+1784,California,Plumas,Blairsden-graeagle,39.784745,-120.627397
+1785,California,Humboldt,Blocksburg,40.276111,-123.635278
+1788,California,Humboldt,"Blue Lake",40.928701,-123.896696
+1790,California,Sonoma,Bodega,38.339264,-122.951364
+1791,California,Sonoma,"Bodega Bay",38.330921,-123.037308
+1793,California,Marin,Bolinas,37.907875,-122.694655
+1796,California,Mendocino,Boonville,39.035007,-123.401954
+1799,California,"Santa Cruz","Boulder Creek",37.149934,-122.133053
+1801,California,Sonoma,"Boyes Hot Springs",38.313889,-122.480833
+1802,California,Monterey,Bradley,35.809255,-120.972793
+1804,California,Mendocino,Branscomb,39.700531,-123.554982
+1807,California,"Contra Costa",Brentwood,37.932415,-121.689427
+1808,California,Mono,Bridgeport,38.256601,-119.208025
+1809,California,Humboldt,Bridgeville,40.468566,-123.549351
+1810,California,"San Mateo",Brisbane,37.681104,-122.400118
+1811,California,"Santa Cruz",Brookdale,37.106389,-122.105
+1812,California,Yolo,Brooks,38.739277,-122.133391
+1813,California,Yuba,"Browns Valley",39.284428,-121.346482
+1814,California,Yuba,Brownsville,39.452534,-121.261179
+1819,California,"San Mateo",Burlingame,37.575884,-122.362952
+1820,California,Shasta,Burney,40.894927,-121.655036
+1821,California,Trinity,"Burnt Ranch",40.772238,-123.461248
+1822,California,Fresno,Burrel,36.488333,-119.984167
+1823,California,Calaveras,Burson,38.183889,-120.889444
+1824,California,Glenn,"Butte City",39.456348,-121.978046
+1826,California,"Contra Costa",Byron,37.902616,-121.602211
+1835,California,Napa,Calistoga,38.582305,-122.581384
+1836,California,Siskiyou,Callahan,41.383257,-122.764046
+1837,California,Mendocino,Calpella,39.150278,-123.206667
+1838,California,Sierra,Calpine,39.651699,-120.4442
+1841,California,"El Dorado",Camino,38.744938,-120.671979
+1842,California,Sonoma,"Camp Meeker",38.425278,-122.958333
+1845,California,"Santa Clara",Campbell,37.280007,-121.95539
+1847,California,Calaveras,"Campo Seco",38.227222,-120.852222
+1848,California,Yuba,Camptonville,39.450784,-121.023066
+1849,California,Modoc,Canby,41.466358,-120.921769
+1852,California,Fresno,"Cantua Creek",36.492123,-120.335252
+1853,California,"Contra Costa",Canyon,37.831667,-122.186667
+1855,California,Plumas,"Canyon Dam",40.207958,-121.156324
+1856,California,Yolo,Capay,38.696964,-122.100993
+1858,California,"Santa Cruz",Capitola,36.977359,-121.952145
+1860,California,Humboldt,Carlotta,40.507027,-123.974287
+1862,California,Monterey,Carmel,36.4478,-121.8395
+1863,California,Monterey,"Carmel By The Sea",36.5546,-121.9203
+1864,California,Monterey,"Carmel Valley",36.478709,-121.724356
+1865,California,Sacramento,Carmichael,38.628393,-121.328683
+1866,California,Placer,"Carnelian Bay",39.231937,-120.075328
+1869,California,Fresno,Caruthers,36.535847,-119.844581
+1871,California,Mendocino,Caspar,39.365102,-123.798489
+1872,California,Shasta,Cassel,40.907832,-121.524497
+1874,California,Shasta,Castella,41.138611,-122.316667
+1875,California,Alameda,"Castro Valley",37.701527,-122.078183
+1876,California,Monterey,Castroville,36.77142,-121.747368
+1878,California,Mariposa,"Catheys Valley",37.441409,-120.069017
+1880,California,Sonoma,Cazadero,38.566335,-123.182896
+1882,California,Nevada,"Cedar Ridge",39.198889,-121.02
+1884,California,Modoc,Cedarville,41.475871,-120.151551
+1885,California,Stanislaus,Ceres,37.588097,-120.949936
+1887,California,Yuba,Challenge,39.4875,-121.2225
+1889,California,Plumas,Chester,40.297457,-121.227338
+1890,California,Nevada,"Chicago Park",39.145278,-120.966111
+1891,California,Butte,Chico,39.756466,-121.851806
+1892,California,Plumas,Chilcoot,39.805683,-120.175212
+1893,California,Tuolumne,"Chinese Camp",37.856829,-120.406673
+1896,California,Madera,Chowchilla,37.101371,-120.269077
+1897,California,Monterey,Chualar,36.595042,-121.431964
+1900,California,Sacramento,"Citrus Heights",38.694571,-121.269211
+1903,California,Yolo,Clarksburg,38.395963,-121.556853
+1904,California,"Contra Costa",Clayton,37.915442,-121.909967
+1905,California,Lake,Clearlake,38.957138,-122.636089
+1906,California,Lake,"Clearlake Oaks",39.034838,-122.66873
+1907,California,Lake,"Clearlake Park",38.967778,-122.653889
+1908,California,"San Joaquin",Clements,38.190833,-121.087222
+1909,California,Plumas,Clio,39.74326,-120.560458
+1910,California,Butte,"Clipper Mills",39.532778,-121.156389
+1911,California,Sonoma,Cloverdale,38.799396,-123.011725
+1912,California,Fresno,Clovis,36.8243,-119.6824
+1914,California,Fresno,Coalinga,36.162435,-120.348928
+1915,California,Madera,Coarsegold,37.221378,-119.745545
+1916,California,Lake,Cobb,38.822222,-122.721944
+1917,California,Mono,Coleville,38.502903,-119.482784
+1918,California,Placer,Colfax,39.076936,-120.960163
+1919,California,"El Dorado",Coloma,38.8,-120.889167
+1921,California,Tuolumne,Columbia,38.03975,-120.405552
+1922,California,Colusa,Colusa,39.21311,-122.011563
+1923,California,Mendocino,Comptche,39.249919,-123.585652
+1925,California,"Contra Costa",Concord,37.950434,-122.026296
+1926,California,"El Dorado",Cool,38.903633,-120.972963
+1927,California,Calaveras,Copperopolis,37.937246,-120.638374
+1928,California,Kings,Corcoran,36.086455,-119.560665
+1929,California,Tehama,Corning,39.929566,-122.195991
+1933,California,Marin,"Corte Madera",37.922256,-122.513202
+1935,California,Sonoma,Cotati,38.325918,-122.704831
+1936,California,Shasta,Cottonwood,40.369072,-122.337463
+1937,California,Mariposa,Coulterville,37.738642,-119.985813
+1938,California,Sacramento,Courtland,38.305756,-121.554297
+1939,California,Mendocino,Covelo,39.801864,-123.215015
+1941,California,"Santa Clara",Coyote,37.216721,-121.746021
+1942,California,"Del Norte","Crescent City",41.785402,-124.178448
+1943,California,Plumas,"Crescent Mills",40.081915,-120.881993
+1944,California,Merced,Cressey,37.419722,-120.666389
+1948,California,"Contra Costa",Crockett,38.051865,-122.217659
+1949,California,Stanislaus,"Crows Landing",37.438956,-121.019893
+1951,California,"Santa Clara",Cupertino,37.317363,-122.038604
+1953,California,Humboldt,Cutten,40.77,-124.141667
+1956,California,"San Mateo","Daly City",37.7074,-122.4587
+1958,California,"Contra Costa",Danville,37.820833,-121.906667
+1959,California,Tuolumne,Dardanelle,38.341111,-119.832778
+1960,California,Inyo,Darwin,36.268056,-117.590833
+1961,California,"Santa Cruz",Davenport,37.06306,-122.225735
+1962,California,Yolo,Davis,38.554817,-121.748495
+1963,California,Modoc,"Davis Creek",41.862555,-120.323549
+1964,California,Inyo,"Death Valley",36.467165,-116.893682
+1965,California,Napa,"Deer Park",38.575833,-122.448889
+1967,California,Fresno,"Del Rey",36.654306,-119.59291
+1969,California,Merced,Delhi,37.428629,-120.775489
+1970,California,Stanislaus,Denair,37.538419,-120.796474
+1974,California,"Contra Costa",Diablo,37.83883,-121.960951
+1976,California,"El Dorado","Diamond Springs",38.66302,-120.836071
+1977,California,Marin,"Dillon Beach",38.250833,-122.964167
+1979,California,"Contra Costa","Discovery Bay",37.9085357,-121.6002291
+1980,California,Solano,Dixon,38.458691,-121.815825
+1981,California,Yuba,Dobbins,39.371469,-121.234386
+1982,California,Siskiyou,Dorris,41.9675,-121.916944
+1983,California,Merced,"Dos Palos",37.00253,-120.633348
+1984,California,Mendocino,"Dos Rios",39.709298,-123.298294
+1985,California,Trinity,"Douglas City",40.634151,-122.923867
+1986,California,Calaveras,"Douglas Flat",38.087222,-120.471944
+1988,California,Sierra,Downieville,39.570265,-120.677767
+1989,California,Lassen,Doyle,40.000799,-120.107693
+1990,California,Amador,Drytown,38.393056,-120.801389
+1992,California,Alameda,Dublin,37.716597,-121.922589
+1995,California,Sonoma,"Duncans Mills",38.453889,-123.053889
+1996,California,Fresno,Dunlap,36.744635,-119.089931
+1997,California,Yolo,Dunnigan,38.893671,-121.996577
+1998,California,Siskiyou,Dunsmuir,41.212439,-122.273397
+1999,California,Butte,Durham,39.641599,-121.791983
+2000,California,Placer,"Dutch Flat",39.197788,-120.826224
+2001,California,Modoc,Eagleville,41.316389,-120.114722
+2005,California,"El Dorado","Echo Lake",38.810254,-120.070498
+2010,California,"Contra Costa","El Cerrito",37.915633,-122.298521
+2011,California,"El Dorado","El Dorado",38.682778,-120.846667
+2012,California,"El Dorado","El Dorado Hills",38.6851,-121.0685
+2013,California,"San Mateo","El Granada",37.502778,-122.468333
+2015,California,Merced,"El Nido",37.13452,-120.483235
+2016,California,Mariposa,"El Portal",37.674722,-119.783056
+2018,California,"Contra Costa","El Sobrante",37.969287,-122.290092
+2020,California,Sonoma,"El Verano",38.297778,-122.490556
+2021,California,Sonoma,Eldridge,38.348889,-122.509722
+2022,California,Mendocino,Elk,39.160402,-123.723961
+2023,California,Glenn,"Elk Creek",39.598914,-122.557244
+2024,California,Sacramento,"Elk Grove",38.412744,-121.359914
+2025,California,Solano,Elmira,38.348333,-121.908889
+2026,California,Sacramento,Elverta,38.716424,-121.431038
+2027,California,Alameda,Emeryville,37.836466,-122.280363
+2028,California,Placer,"Emigrant Gap",39.286907,-120.662902
+2029,California,Stanislaus,Empire,37.638333,-120.901111
+2032,California,"San Joaquin",Escalon,37.804428,-120.990044
+2034,California,Yolo,Esparto,38.694191,-122.021391
+2036,California,Siskiyou,Etna,41.468303,-122.914189
+2037,California,Humboldt,Eureka,40.776237,-124.155892
+2039,California,Sacramento,"Fair Oaks",38.655408,-121.261065
+2040,California,Marin,Fairfax,37.988289,-122.593711
+2041,California,Solano,Fairfield,38.267084,-122.03565
+2042,California,Shasta,"Fall River Mills",41.03931,-121.460562
+2045,California,"San Joaquin",Farmington,37.944771,-120.852343
+2047,California,Butte,"Feather Falls",39.593333,-121.255278
+2049,California,"Santa Cruz",Felton,37.063124,-122.062162
+2050,California,Humboldt,Ferndale,40.574488,-124.252268
+2051,California,Amador,Fiddletown,38.53141,-120.715926
+2052,California,Humboldt,"Fields Landing",40.724722,-124.213889
+2054,California,Lake,Finley,39.004444,-122.874444
+2055,California,Fresno,Firebaugh,36.8651,-120.470048
+2056,California,Mariposa,"Fish Camp",37.51692,-119.642005
+2057,California,Fresno,"Five Points",36.429444,-120.101944
+2058,California,Nevada,Floriston,39.445746,-120.025421
+2059,California,Tehama,Flournoy,39.920556,-122.435
+2060,California,Sacramento,Folsom,38.687885,-121.140927
+2063,California,Butte,Forbestown,39.541712,-121.213443
+2065,California,Marin,"Forest Knolls",38.012178,-122.69074
+2066,California,Butte,"Forest Ranch",40.129931,-121.500205
+2067,California,Placer,Foresthill,39.00229,-120.861127
+2068,California,Sonoma,Forestville,38.489442,-122.896683
+2069,California,Siskiyou,"Forks Of Salmon",41.256978,-123.09781
+2070,California,Modoc,"Fort Bidwell",41.864441,-120.161983
+2071,California,Mendocino,"Fort Bragg",39.437452,-123.78835
+2072,California,"Del Norte","Fort Dick",41.8382,-124.166
+2074,California,Siskiyou,"Fort Jones",41.617027,-122.883207
+2075,California,Humboldt,Fortuna,40.584931,-124.140654
+2077,California,Fresno,Fowler,36.628153,-119.671025
+2079,California,"Santa Cruz",Freedom,36.936483,-121.776761
+2080,California,Alameda,Fremont,37.560493,-121.999935
+2081,California,"San Joaquin","French Camp",37.877982,-121.282704
+2082,California,Shasta,"French Gulch",40.703517,-122.622868
+2083,California,Fresno,Fresno,36.841107,-119.800359
+2084,California,Fresno,Friant,37.002416,-119.696501
+2086,California,Sonoma,Fulton,38.494732,-122.77608
+2087,California,Sacramento,Galt,38.269846,-121.29383
+2088,California,Humboldt,Garberville,40.100278,-123.793889
+2090,California,"El Dorado","Garden Valley",38.866495,-120.856672
+2092,California,"Del Norte",Gasquet,41.862768,-123.912467
+2093,California,Siskiyou,Gazelle,41.510485,-122.537122
+2094,California,"El Dorado",Georgetown,38.919892,-120.793388
+2095,California,Tehama,Gerber,40.042997,-122.164937
+2096,California,Sonoma,Geyserville,38.700398,-122.888921
+2097,California,"Santa Clara",Gilroy,37.016005,-121.57825
+2098,California,Sonoma,"Glen Ellen",38.362538,-122.521002
+2099,California,Calaveras,Glencoe,38.351557,-120.594546
+2102,California,Lake,Glenhaven,38.99008,-122.522035
+2103,California,Glenn,Glenn,39.606871,-122.038443
+2105,California,Placer,"Gold Run",39.175102,-120.856909
+2107,California,Monterey,Gonzales,36.490038,-121.410347
+2108,California,Sierra,"Goodyears Bar",39.572891,-120.820698
+2112,California,Placer,"Granite Bay",38.7438,-121.1898
+2113,California,Nevada,"Grass Valley",39.207617,-121.037401
+2114,California,Sonoma,Graton,38.434971,-122.866766
+2116,California,Marin,Greenbrae,37.950599,-122.535501
+2117,California,Monterey,Greenfield,36.320178,-121.24507
+2118,California,Siskiyou,Greenview,41.550833,-122.904444
+2119,California,Plumas,Greenville,40.142404,-120.927299
+2120,California,"El Dorado",Greenwood,38.936234,-120.916589
+2121,California,Siskiyou,Grenada,41.612512,-122.525829
+2122,California,Butte,Gridley,39.358855,-121.689777
+2123,California,Colusa,Grimes,39.074444,-121.892778
+2124,California,"El Dorado","Grizzly Flats",38.628665,-120.542508
+2125,California,Tuolumne,Groveland,37.840899,-120.191809
+2128,California,Mendocino,Gualala,38.803619,-123.553975
+2131,California,Sonoma,Guerneville,38.509573,-122.994416
+2132,California,Yolo,Guinda,38.816568,-122.189659
+2133,California,Merced,Gustine,37.242456,-121.003965
+2135,California,"San Mateo","Half Moon Bay",37.479057,-122.445929
+2136,California,Glenn,"Hamilton City",39.742778,-122.0125
+2137,California,Kings,Hanford,36.331419,-119.649094
+2138,California,Siskiyou,"Happy Camp",41.801802,-123.388045
+2141,California,Shasta,"Hat Creek",40.767673,-121.463687
+2142,California,Calaveras,"Hathaway Pines",38.191944,-120.364444
+2145,California,Trinity,Hayfork,40.550431,-123.163416
+2146,California,Alameda,Hayward,37.6564,-122.0957
+2147,California,Sonoma,Healdsburg,38.61553,-122.856529
+2150,California,Fresno,Helm,36.499231,-120.093598
+2152,California,Sacramento,Herald,38.31282,-121.158898
+2153,California,"Contra Costa",Hercules,38.006649,-122.263702
+2154,California,Lassen,Herlong,40.148492,-120.171271
+2157,California,Stanislaus,Hickman,37.619989,-120.71722
+2158,California,Lake,"Hidden Valley Lake",39.962583,-123.814656
+2160,California,Merced,Hilmar,37.408377,-120.856144
+2163,California,"San Joaquin",Holt,37.934444,-121.426111
+2165,California,"Santa Clara","Holy City",37.156944,-121.977778
+2167,California,Placer,Homewood,39.078157,-120.179035
+2168,California,Humboldt,Honeydew,40.244444,-124.121667
+2169,California,Sacramento,Hood,38.368333,-121.516389
+2170,California,Humboldt,Hoopa,41.105937,-123.692754
+2171,California,Mendocino,Hopland,38.972056,-123.116956
+2172,California,Siskiyou,Hornbrook,41.907738,-122.526528
+2173,California,Mariposa,Hornitos,37.492226,-120.226443
+2174,California,Stanislaus,Hughson,37.594364,-120.865281
+2175,California,Fresno,Hume,36.785,-118.912778
+2178,California,Fresno,Huron,36.237144,-120.101964
+2179,California,Trinity,Hyampom,40.6175,-123.451389
+2180,California,Humboldt,Hydesville,40.549576,-124.084489
+2182,California,Shasta,Igo,40.431795,-122.654023
+2185,California,Inyo,Independence,36.839578,-118.204808
+2189,California,Marin,Inverness,38.083514,-122.856774
+2191,California,Amador,Ione,38.351882,-120.943265
+2193,California,Sacramento,Isleton,38.155392,-121.604858
+2195,California,Amador,Jackson,38.357514,-120.754877
+2197,California,Tuolumne,Jamestown,37.906544,-120.494567
+2199,California,Lassen,Janesville,40.296325,-120.50982
+2200,California,Sonoma,Jenner,38.474093,-123.135379
+2202,California,Monterey,Jolon,35.970833,-121.175
+2205,California,Trinity,"Junction City",40.768187,-123.062671
+2206,California,Mono,"June Lake",37.777324,-119.082492
+2208,California,Inyo,Keeler,36.487222,-117.873056
+2210,California,Lake,Kelseyville,38.946164,-122.781707
+2211,California,Marin,Kentfield,37.952222,-122.556111
+2212,California,Sonoma,Kenwood,38.416794,-122.554679
+2213,California,Fresno,Kerman,36.730576,-120.072444
+2215,California,Kings,"Kettleman City",36.021501,-119.964361
+2216,California,Stanislaus,Keyes,37.556667,-120.914444
+2217,California,Monterey,"King City",36.202776,-121.127329
+2218,California,Placer,"Kings Beach",39.240119,-120.023287
+2220,California,Fresno,Kingsburg,36.508047,-119.543298
+2221,California,Alpine,Kirkwood,38.702778,-120.071667
+2222,California,Amador,"Kit Carson",38.431944,-120.570833
+2223,California,"Del Norte",Klamath,41.542075,-124.033907
+2224,California,Siskiyou,"Klamath River",41.863699,-122.819693
+2225,California,Humboldt,Kneeland,40.71262,-123.946421
+2226,California,Yolo,"Knights Landing",38.822032,-121.720003
+2227,California,"Contra Costa",Knightsen,37.9818,-121.672149
+2228,California,Humboldt,Korbel,40.824369,-123.859413
+2229,California,"El Dorado",Kyburz,38.780036,-120.25529
+2232,California,Stanislaus,"La Grange",37.678915,-120.358131
+2234,California,"San Mateo","La Honda",37.272285,-122.293889
+2243,California,"Contra Costa",Lafayette,37.896105,-122.11194
+2248,California,Marin,Lagunitas,38.013929,-122.701576
+2250,California,Modoc,"Lake City",41.668208,-120.181424
+2255,California,Shasta,Lakehead,40.958775,-122.359281
+2256,California,Lake,Lakeport,39.055147,-122.915082
+2257,California,Fresno,Lakeshore,37.253,-119.1738
+2263,California,Marin,Larkspur,37.936743,-122.536202
+2264,California,"San Joaquin",Lathrop,37.820897,-121.282652
+2265,California,Fresno,Laton,36.437834,-119.715565
+2267,California,Mendocino,Laytonville,39.667811,-123.486862
+2268,California,Merced,"Le Grand",37.234175,-120.251737
+2270,California,Mono,"Lee Vining",37.988988,-119.123413
+2271,California,Mendocino,Leggett,39.865833,-123.713056
+2274,California,Kings,Lemoore,36.309535,-119.831017
+2275,California,Trinity,Lewiston,40.745986,-122.842591
+2276,California,Modoc,Likely,41.230556,-120.503056
+2277,California,Placer,Lincoln,38.904035,-121.295541
+2279,California,"San Joaquin",Linden,38.021869,-121.074442
+2281,California,Lassen,Litchfield,40.362788,-120.253975
+2282,California,Inyo,"Little Lake",35.936667,-117.905833
+2283,California,Mendocino,"Little River",39.271042,-123.753089
+2285,California,Sutter,"Live Oak",39.266904,-121.66393
+2286,California,Alameda,Livermore,37.68299,-121.762983
+2287,California,Merced,Livingston,37.376168,-120.716156
+2289,California,"San Joaquin",Lockeford,38.162436,-121.135611
+2290,California,Monterey,Lockwood,35.989287,-121.205946
+2291,California,"San Joaquin",Lodi,38.123579,-121.263034
+2292,California,Humboldt,Loleta,40.6531,-124.228826
+2294,California,"San Mateo","Loma Mar",37.254437,-122.281996
+2297,California,Inyo,"Lone Pine",36.579781,-118.057824
+2298,California,Tuolumne,"Long Barn",38.20336,-120.001159
+2300,California,Modoc,Lookout,41.208056,-121.154167
+2301,California,Placer,Loomis,38.80711,-121.169826
+2304,California,"Santa Clara","Los Altos",37.381432,-122.125754
+2306,California,Merced,"Los Banos",37.06266,-120.854387
+2307,California,"Santa Clara","Los Gatos",37.211677,-121.978684
+2308,California,"Santa Cruz","Los Gatos",37.1536,-121.9812
+2309,California,Tehama,"Los Molinos",40.049735,-122.099175
+2313,California,"El Dorado",Lotus,38.801712,-120.928864
+2314,California,Lake,"Lower Lake",38.860682,-122.575426
+2315,California,Sierra,Loyalton,39.662974,-120.229662
+2316,California,Lake,Lucerne,39.083393,-122.785125
+2321,California,Siskiyou,Macdoel,41.883028,-121.944472
+2322,California,Trinity,"Mad River",40.352352,-123.413994
+2323,California,Lassen,Madeline,41.051111,-120.474444
+2324,California,Madera,Madera,36.9528,-119.8806
+2325,California,Yolo,Madison,38.680164,-121.972129
+2326,California,Butte,Magalia,39.831728,-121.597455
+2328,California,Mono,"Mammoth Lakes",37.642361,-118.976383
+2329,California,Mendocino,Manchester,38.992088,-123.670962
+2331,California,"San Joaquin",Manteca,37.80875,-121.21856
+2332,California,Tehama,Manton,40.433125,-121.836521
+2335,California,Monterey,Marina,36.684922,-121.793383
+2337,California,Mariposa,Mariposa,37.503918,-119.892496
+2338,California,Alpine,Markleeville,38.76473,-119.807275
+2339,California,Marin,Marshall,38.176221,-122.890011
+2340,California,Amador,Martell,38.366944,-120.795
+2341,California,"Contra Costa",Martinez,37.993246,-122.111693
+2342,California,Yuba,Marysville,39.141653,-121.522467
+2343,California,Sacramento,Mather,38.549224,-121.282394
+2344,California,Colusa,Maxwell,39.292494,-122.195161
+2348,California,Lassen,Mcarthur,41.111407,-121.214896
+2349,California,Sacramento,Mcclellan,38.655416,-121.40311
+2350,California,Siskiyou,Mccloud,41.252108,-122.13562
+2351,California,Humboldt,Mckinleyville,40.875833,-124.083056
+2352,California,Plumas,"Meadow Valley",39.918488,-121.05629
+2353,California,Placer,"Meadow Vista",39.003101,-121.029155
+2355,California,Mendocino,Mendocino,39.323212,-123.78846
+2356,California,Fresno,Mendota,36.742365,-120.409287
+2358,California,"San Mateo","Menlo Park",37.453401,-122.179136
+2360,California,Merced,Merced,37.300724,-120.461668
+2361,California,Sutter,Meridian,39.116812,-121.88138
+2362,California,Tuolumne,"Mi Wuk Village",38.105576,-120.131762
+2363,California,Lake,Middletown,38.782504,-122.64352
+2364,California,Mariposa,Midpines,37.571009,-119.946548
+2366,California,Lassen,Milford,40.182763,-120.389508
+2367,California,Tehama,"Mill Creek",40.326389,-121.521667
+2368,California,Marin,"Mill Valley",37.895757,-122.533885
+2369,California,"San Mateo",Millbrae,37.600382,-122.401985
+2370,California,Shasta,Millville,40.565316,-122.111088
+2371,California,"Santa Clara",Milpitas,37.436491,-121.892885
+2372,California,Tehama,Mineral,40.328826,-121.524807
+2374,California,Fresno,Miramonte,36.68938,-119.047718
+2375,California,Humboldt,Miranda,40.234722,-123.8225
+2378,California,Tuolumne,Moccasin,37.810833,-120.298889
+2379,California,Stanislaus,Modesto,37.674649,-121.011303
+2381,California,Calaveras,"Mokelumne Hill",38.328918,-120.567705
+2382,California,Fresno,"Mono Hot Springs",37.168,-119.2095
+2384,California,Siskiyou,Montague,41.724294,-122.463799
+2385,California,"San Mateo",Montara,37.542222,-122.515
+2387,California,Sonoma,"Monte Rio",38.462668,-123.00447
+2389,California,Monterey,Monterey,36.595642,-121.8848
+2391,California,Shasta,"Montgomery Creek",40.912378,-121.923313
+2394,California,"Contra Costa",Moraga,37.843653,-122.124185
+2396,California,"Santa Clara","Morgan Hill",37.129171,-121.64636
+2399,California,"San Mateo","Moss Beach",37.531039,-122.50683
+2400,California,Monterey,"Moss Landing",36.804444,-121.785833
+2401,California,"El Dorado","Mount Aukum",38.55,-120.7304
+2402,California,"Santa Clara","Mount Hamilton",37.316087,-121.639948
+2403,California,"Santa Cruz","Mount Hermon",37.051111,-122.0575
+2405,California,Siskiyou,"Mount Shasta",41.317435,-122.324017
+2409,California,Calaveras,"Mountain Ranch",38.220363,-120.548137
+2410,California,"Santa Clara","Mountain View",37.41001,-122.051944
+2412,California,Calaveras,Murphys,38.126896,-120.461772
+2414,California,Humboldt,"Myers Flat",40.194758,-123.822713
+2415,California,Napa,Napa,38.328137,-122.305518
+2417,California,Mendocino,Navarro,39.065833,-123.443889
+2419,California,Butte,Nelson,39.552222,-121.764444
+2420,California,Nevada,"Nevada City",39.275395,-121.019634
+2421,California,"Santa Clara","New Almaden",37.176111,-121.819722
+2423,California,Alameda,Newark,37.536812,-122.031956
+2426,California,Placer,Newcastle,38.872467,-121.142616
+2428,California,Stanislaus,Newman,37.317591,-121.025943
+2431,California,Marin,Nicasio,38.054622,-122.696402
+2432,California,Lake,Nice,39.122341,-122.842409
+2433,California,Sutter,Nicolaus,38.882726,-121.553043
+2438,California,Nevada,Norden,39.319566,-120.400876
+2439,California,Madera,"North Fork",37.212531,-119.514324
+2440,California,Sacramento,"North Highlands",38.68855,-121.374913
+2444,California,Nevada,"North San Juan",39.354037,-121.13498
+2447,California,Marin,Novato,38.1163,-122.571416
+2448,California,Lassen,Nubieber,41.095833,-121.181944
+2450,California,Madera,"O Neals",37.086874,-119.745369
+2452,California,Shasta,"Oak Run",40.68631,-122.040932
+2454,California,Stanislaus,Oakdale,37.775323,-120.849474
+2455,California,Madera,Oakhurst,37.347561,-119.644854
+2456,California,Alameda,Oakland,37.780595,-122.216587
+2457,California,"Contra Costa",Oakley,37.994034,-121.703623
+2458,California,Napa,Oakville,38.436944,-122.401111
+2459,California,Shasta,Obrien,40.812222,-122.323056
+2460,California,Sonoma,Occidental,38.396911,-122.988194
+2465,California,Inyo,Olancha,36.320833,-118.025556
+2466,California,Shasta,"Old Station",40.62557,-121.458476
+2467,California,Marin,Olema,38.040833,-122.786944
+2468,California,Yuba,Olivehurst,39.089483,-121.550059
+2469,California,Placer,"Olympic Valley",39.155556,-120.215
+2473,California,Fresno,"Orange Cove",36.624283,-119.313502
+2474,California,Sacramento,Orangevale,38.682384,-121.222902
+2475,California,Yuba,"Oregon House",39.314388,-121.209229
+2476,California,Humboldt,Orick,41.30724,-124.050319
+2477,California,"Contra Costa",Orinda,37.878659,-122.172848
+2478,California,Glenn,Orland,39.744578,-122.157885
+2479,California,Humboldt,Orleans,41.318092,-123.529564
+2482,California,Butte,Oroville,39.532967,-121.578396
+2484,California,Monterey,"Pacific Grove",36.616737,-121.921957
+2486,California,"San Mateo",Pacifica,37.619559,-122.481607
+2490,California,Butte,Palermo,39.436148,-121.545389
+2494,California,"Santa Clara","Palo Alto",37.444324,-122.149685
+2495,California,Shasta,"Palo Cedro",40.576661,-122.239805
+2500,California,Butte,Paradise,39.746389,-121.636111
+2503,California,Fresno,Parlier,36.610265,-119.537482
+2505,California,Tehama,Paskenta,39.884722,-122.544722
+2507,California,Stanislaus,Patterson,37.490592,-121.140732
+2510,California,Tehama,"Paynes Creek",40.351415,-121.764952
+2512,California,Monterey,"Pebble Beach",36.590735,-121.942044
+2513,California,Nevada,"Penn Valley",39.218778,-121.193519
+2514,California,Sonoma,Penngrove,38.315948,-122.671772
+2515,California,Placer,Penryn,38.856654,-121.179149
+2517,California,"San Mateo",Pescadero,37.206518,-122.364876
+2518,California,Sonoma,Petaluma,38.240349,-122.677727
+2519,California,Humboldt,Petrolia,40.300558,-124.251236
+2521,California,Humboldt,Phillipsville,40.209167,-123.784722
+2522,California,Mendocino,Philo,39.120005,-123.538218
+2524,California,Alameda,Piedmont,37.8276,-122.2507
+2525,California,Fresno,Piedra,36.810278,-119.381111
+2526,California,Mendocino,Piercy,39.966389,-123.794167
+2527,California,"El Dorado","Pilot Hill",38.826312,-121.029765
+2528,California,Amador,"Pine Grove",38.396783,-120.643713
+2530,California,Tuolumne,Pinecrest,38.341062,-119.865195
+2531,California,"Contra Costa",Pinole,37.996903,-122.287477
+2533,California,Amador,Pioneer,38.460271,-120.531815
+2537,California,"Contra Costa",Pittsburg,38.016887,-121.908178
+2540,California,"El Dorado",Placerville,38.719479,-120.804564
+2541,California,Merced,Planada,37.290833,-120.3175
+2542,California,Shasta,Platina,40.316528,-122.918013
+2544,California,Sutter,"Pleasant Grove",38.787773,-121.507967
+2545,California,"Contra Costa","Pleasant Hill",37.954002,-122.07371
+2546,California,Alameda,Pleasanton,37.665804,-121.8755
+2547,California,Amador,Plymouth,38.48811,-120.870258
+2548,California,Mendocino,"Point Arena",38.915264,-123.660756
+2550,California,Marin,"Point Reyes Station",38.064794,-122.81621
+2551,California,"El Dorado","Pollock Pines",38.745581,-120.585114
+2553,California,Napa,"Pope Valley",38.678192,-122.472244
+2554,California,"Contra Costa","Port Costa",38.046013,-122.186649
+2559,California,Plumas,Portola,39.810883,-120.466858
+2560,California,"San Mateo","Portola Vally",37.378859,-122.208131
+2563,California,Mendocino,"Potter Valley",39.329639,-123.104181
+2565,California,Fresno,Prather,36.993799,-119.526771
+2566,California,Colusa,Princeton,39.428313,-122.030181
+2567,California,Tehama,Proberta,40.081667,-122.169444
+2568,California,Plumas,Quincy,39.940504,-120.928493
+2569,California,Yuba,Rackerby,39.4059,-121.336192
+2570,California,Calaveras,"Rail Road Flat",38.343333,-120.511111
+2571,California,Fresno,"Raisin City",36.598928,-119.903158
+2574,California,Sacramento,"Rancho Cordova",38.601897,-121.289434
+2581,California,Lassen,Ravendale,40.831705,-120.16001
+2582,California,Madera,Raymond,37.27898,-119.876567
+2583,California,Tehama,"Red Bluff",40.179535,-122.238281
+2585,California,Humboldt,Redcrest,40.406458,-123.94205
+2586,California,Shasta,Redding,40.560493,-122.411627
+2589,California,Humboldt,Redway,40.110081,-123.844194
+2590,California,"San Mateo","Redwood City",37.464661,-122.230406
+2591,California,"Santa Clara","Redwood Estates",37.156389,-121.985556
+2592,California,Mendocino,"Redwood Valley",39.269446,-123.213289
+2593,California,Fresno,Reedley,36.604406,-119.437785
+2594,California,Sacramento,Represa,38.688333,-121.447778
+2595,California,"El Dorado",Rescue,38.719353,-120.994526
+2599,California,"Contra Costa",Richmond,37.940039,-122.36201
+2600,California,Butte,Richvale,39.493889,-121.743611
+2603,California,Humboldt,"Rio Dell",40.495147,-124.104386
+2604,California,Sacramento,"Rio Linda",38.689311,-121.445152
+2605,California,Sonoma,"Rio Nido",38.521111,-122.975833
+2606,California,Sutter,"Rio Oso",38.960998,-121.505305
+2607,California,Solano,"Rio Vista",38.163734,-121.701635
+2608,California,"San Joaquin",Ripon,37.753286,-121.122909
+2609,California,Amador,"River Pines",38.5463,-120.743
+2610,California,Stanislaus,Riverbank,37.732809,-120.943019
+2611,California,Fresno,Riverdale,36.429525,-119.871953
+2613,California,Sutter,Robbins,38.870278,-121.705278
+2614,California,Placer,Rocklin,38.791898,-121.243406
+2615,California,"Contra Costa",Rodeo,38.03069,-122.258139
+2616,California,Sonoma,"Rohnert Park",38.3269,-122.7061
+2619,California,Placer,Roseville,38.734612,-121.233968
+2620,California,Marin,Ross,37.9625,-122.553889
+2621,California,Nevada,"Rough And Ready",39.228585,-121.150856
+2622,California,Shasta,"Round Mountain",40.794167,-121.940833
+2624,California,Yolo,Rumsey,38.8762,-122.253738
+2626,California,Napa,Rutherford,38.458611,-122.421389
+2627,California,Sacramento,Ryde,38.238611,-121.559444
+2628,California,Sacramento,Sacramento,38.5816,-121.4933
+2629,California,Napa,"Saint Helena",38.513776,-122.461921
+2630,California,Stanislaus,Salida,37.70713,-121.090484
+2631,California,Monterey,Salinas,36.667693,-121.659589
+2633,California,Trinity,Salyer,40.89095,-123.547833
+2634,California,Humboldt,Samoa,40.803712,-124.193571
+2635,California,Calaveras,"San Andreas",38.186732,-120.668703
+2636,California,Marin,"San Anselmo",37.984579,-122.571062
+2637,California,Monterey,"San Ardo",35.985685,-120.861191
+2639,California,"San Mateo","San Bruno",37.624742,-122.429021
+2640,California,"San Mateo","San Carlos",37.496859,-122.267356
+2645,California,"San Francisco","San Francisco",37.775,-122.4183
+2646,California,"San Mateo","San Francisco",37.621944,-122.381944
+2648,California,Marin,"San Geronimo",38.017155,-122.67784
+2649,California,"San Mateo","San Gregorio",37.325513,-122.355552
+2651,California,Fresno,"San Joaquin",36.605869,-120.188934
+2652,California,"Santa Clara","San Jose",37.3894,-121.8868
+2655,California,Alameda,"San Leandro",37.720467,-122.158705
+2656,California,Alameda,"San Lorenzo",37.678671,-122.129547
+2657,California,Monterey,"San Lucas",36.128889,-121.019444
+2662,California,"Santa Clara","San Martin",37.091118,-121.599901
+2663,California,"San Mateo","San Mateo",37.572271,-122.320262
+2665,California,"Contra Costa","San Pablo",37.972374,-122.336929
+2667,California,Marin,"San Quentin",37.9428,-122.4894
+2668,California,Marin,"San Rafael",37.969144,-122.510502
+2669,California,"Contra Costa","San Ramon",37.78,-121.976944
+2672,California,Fresno,Sanger,36.7243,-119.547796
+2675,California,"Santa Clara","Santa Clara",37.34732,-121.954079
+2677,California,"Santa Cruz","Santa Cruz",36.982946,-122.043612
+2683,California,Merced,"Santa Rita Park",37.0475,-120.594167
+2684,California,Sonoma,"Santa Rosa",38.443123,-122.751722
+2688,California,"Santa Clara",Saratoga,37.272871,-122.018238
+2689,California,Marin,Sausalito,37.860147,-122.494555
+2690,California,Humboldt,Scotia,40.454665,-124.039074
+2691,California,Siskiyou,"Scott Bar",41.77364,-122.988183
+2692,California,"Santa Cruz","Scotts Valley",37.057841,-122.014961
+2694,California,Monterey,Seaside,36.609208,-121.835724
+2695,California,Sonoma,Sebastopol,38.391543,-122.838503
+2697,California,Siskiyou,"Seiad Valley",41.886589,-123.243762
+2698,California,Fresno,Selma,36.569524,-119.617026
+2702,California,Shasta,Shasta,40.610896,-122.49685
+2703,California,Shasta,"Shasta Lake",40.680262,-122.365395
+2704,California,Fresno,"Shaver Lake",37.139695,-119.273031
+2705,California,Calaveras,"Sheep Ranch",38.209444,-120.463056
+2706,California,Placer,Sheridan,38.99153,-121.362062
+2708,California,"El Dorado","Shingle Springs",38.665616,-120.975925
+2709,California,Shasta,Shingletown,40.504959,-121.885668
+2710,California,Inyo,Shoshone,35.899239,-116.264476
+2711,California,Sierra,"Sierra City",39.559248,-120.624135
+2713,California,Sierra,Sierraville,39.594294,-120.347789
+2718,California,Sacramento,Sloughhouse,38.507475,-121.094089
+2719,California,Nevada,Smartville,39.204305,-121.266716
+2720,California,"Del Norte","Smith River",41.936218,-124.166115
+2721,California,Merced,Snelling,37.514359,-120.481615
+2722,California,Nevada,"Soda Springs",39.338467,-120.465493
+2724,California,Monterey,Soledad,36.41964,-121.324286
+2726,California,"El Dorado",Somerset,38.607414,-120.666306
+2727,California,Siskiyou,"Somes Bar",41.43304,-123.475928
+2729,California,Sonoma,Sonoma,38.295659,-122.472843
+2730,California,Tuolumne,Sonora,37.995692,-120.338498
+2731,California,"Santa Cruz",Soquel,37.003525,-121.950255
+2732,California,Tuolumne,Soulsbyville,37.992794,-120.259892
+2733,California,Merced,"South Dos Palos",36.964444,-120.652222
+2736,California,"El Dorado","South Lake Tahoe",38.916976,-119.986469
+2738,California,"San Mateo","South San Francisco",37.65382,-122.4347
+2739,California,Monterey,Spreckels,36.621944,-121.645833
+2742,California,Fresno,"Squaw Valley",36.707146,-119.181449
+2743,California,Tuolumne,Standard,37.984167,-120.381111
+2744,California,Lassen,Standish,40.350863,-120.406847
+2745,California,"Santa Clara",Stanford,37.423573,-122.161867
+2748,California,Merced,Stevinson,37.32575,-120.869856
+2749,California,Sonoma,"Stewarts Point",38.651944,-123.398056
+2750,California,Marin,"Stinson Beach",37.901992,-122.639305
+2751,California,Butte,"Stirling City",39.907778,-121.526944
+2752,California,"San Joaquin",Stockton,37.958,-121.2876
+2753,California,Colusa,Stonyford,39.333652,-122.517811
+2754,California,Plumas,Storrie,39.513889,-121.555278
+2755,California,Kings,Stratford,36.178976,-119.823564
+2757,California,Tuolumne,Strawberry,38.201667,-119.997778
+2758,California,Yuba,"Strawberry Valley",39.604136,-121.074566
+2761,California,Solano,"Suisun City",38.240834,-122.042003
+2767,California,"Santa Clara",Sunnyvale,37.368889,-122.035278
+2768,California,Alameda,Sunol,37.609403,-121.898636
+2771,California,Lassen,Susanville,40.416389,-120.651944
+2772,California,Sutter,Sutter,39.168114,-121.756527
+2773,California,Amador,"Sutter Creek",38.418569,-120.785454
+2776,California,Placer,"Tahoe City",39.180618,-120.144532
+2777,California,Placer,"Tahoe Vista",39.24475,-120.052128
+2778,California,"El Dorado",Tahoma,39.064406,-120.135747
+2779,California,Mendocino,Talmage,39.130833,-123.165
+2781,California,Plumas,Taylorsville,40.064911,-120.801797
+2783,California,Inyo,Tecopa,35.897925,-115.829824
+2785,California,Tehama,Tehama,40.027222,-122.122222
+2789,California,Lassen,Termo,40.946667,-120.517378
+2791,California,Sonoma,"The Sea Ranch",38.725627,-123.467486
+2793,California,"San Joaquin",Thornton,38.226111,-121.423611
+2798,California,Fresno,Tollhouse,36.99434,-119.391415
+2800,California,Marin,Tomales,38.246389,-122.904444
+2802,California,Mono,Topaz,38.64151,-119.512164
+2805,California,"San Joaquin",Tracy,37.754444,-121.369722
+2806,California,Fresno,Tranquillity,36.658376,-120.261655
+2808,California,Solano,"Travis Afb",38.274313,-121.946317
+2810,California,Humboldt,Trinidad,41.087949,-124.101253
+2811,California,Trinity,"Trinity Center",41.061548,-122.723919
+2813,California,Nevada,Truckee,39.328056,-120.182222
+2816,California,Siskiyou,Tulelake,41.931621,-121.434688
+2817,California,Tuolumne,Tuolumne,37.971339,-120.237496
+2819,California,Stanislaus,Turlock,37.503605,-120.850511
+2821,California,Plumas,Twain,40.002769,-121.150729
+2822,California,Tuolumne,"Twain Harte",38.044722,-120.2155
+2824,California,"El Dorado","Twin Bridges",38.808615,-120.128851
+2826,California,Mendocino,Ukiah,39.151917,-123.200692
+2827,California,Alameda,"Union City",37.589458,-122.049702
+2830,California,Lake,"Upper Lake",39.160829,-122.896114
+2831,California,Solano,Vacaville,38.341915,-121.962285
+2833,California,Calaveras,Vallecito,38.101472,-120.467879
+2834,California,Solano,Vallejo,38.148345,-122.249333
+2836,California,Sonoma,"Valley Ford",38.315729,-122.924457
+2837,California,Calaveras,"Valley Springs",38.154355,-120.859742
+2844,California,"San Joaquin",Vernalis,37.6185,-121.259
+2845,California,"San Joaquin",Victor,38.138056,-121.205
+2848,California,Sonoma,"Villa Grande",38.473056,-123.024444
+2850,California,Tehama,Vina,39.933056,-122.052778
+2851,California,Sonoma,Vineburg,38.2725,-122.4375
+2852,California,Plumas,Vinton,39.720719,-120.204994
+2855,California,Amador,Volcano,38.477319,-120.617761
+2856,California,Calaveras,Wallace,38.194167,-120.976944
+2858,California,"Contra Costa","Walnut Creek",37.875317,-122.070259
+2859,California,Sacramento,"Walnut Grove",38.236362,-121.524849
+2862,California,Nevada,Washington,39.359444,-120.798056
+2863,California,Stanislaus,Waterford,37.650988,-120.753862
+2864,California,"Santa Cruz",Watsonville,36.920515,-121.763437
+2866,California,Trinity,Weaverville,40.731701,-122.935303
+2867,California,Siskiyou,Weed,41.439466,-122.384803
+2868,California,Placer,Weimar,39.0375,-120.971389
+2870,California,Lassen,Wendel,40.346233,-120.352156
+2871,California,Humboldt,Weott,40.321944,-123.920556
+2875,California,Calaveras,"West Point",38.406201,-120.515862
+2876,California,Yolo,"West Sacramento",38.592424,-121.526377
+2879,California,Stanislaus,Westley,37.549444,-121.198056
+2882,California,Mendocino,Westport,39.644059,-123.76426
+2883,California,Lassen,Westwood,40.270359,-121.109224
+2884,California,Yuba,Wheatland,39.019197,-121.422126
+2885,California,Shasta,Whiskeytown,40.638889,-122.558611
+2887,California,Humboldt,Whitethorn,40.023889,-123.941944
+2888,California,Shasta,Whitmore,40.65255,-121.877076
+2891,California,Colusa,Williams,39.148855,-122.162375
+2892,California,Mendocino,Willits,39.411426,-123.350271
+2893,California,Humboldt,"Willow Creek",40.938894,-123.631062
+2894,California,Glenn,Willows,39.523751,-122.199204
+2896,California,Calaveras,Wilseyville,38.384566,-120.442356
+2897,California,Sacramento,Wilton,38.412069,-121.225656
+2899,California,Sonoma,Windsor,38.543182,-122.804375
+2902,California,Yolo,Winters,38.529462,-121.974544
+2903,California,Merced,Winton,37.39233,-120.6132
+2904,California,Madera,Wishon,37.281028,-119.557014
+2905,California,Lake,"Witter Springs",39.182118,-122.97105
+2907,California,Marin,Woodacre,38.006933,-122.638247
+2908,California,"San Joaquin",Woodbridge,38.155124,-121.308632
+2910,California,Yolo,Woodland,38.674294,-121.77932
+2916,California,Yolo,Yolo,38.731944,-121.806667
+2918,California,Mendocino,Yorkville,38.908945,-123.233867
+2919,California,Mariposa,"Yosemite National Park",37.746667,-119.583611
+2920,California,Napa,Yountville,38.403813,-122.358506
+2921,California,Siskiyou,Yreka,41.720558,-122.637604
+2922,California,Sutter,"Yuba City",39.128619,-121.621599
+2925,California,Yolo,Zamora,38.799896,-121.90654
+2926,California,Trinity,Zenia,40.205556,-123.490833
